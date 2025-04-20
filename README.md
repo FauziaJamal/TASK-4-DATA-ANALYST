@@ -1,5 +1,4 @@
 # TASK-4-DATA-ANALYST
-# Task 4: Dashboard Design
 
 ## Objective
 To create an interactive dashboard using Power BI that shows important sales information for business stakeholders.
